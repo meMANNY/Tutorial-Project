@@ -197,3 +197,14 @@ body {
     background-color: #f9faf8;
     color: #3b82f6;
 }
+
+.main-footer {
+    background-color: #1f2937;
+    padding: 32px 0;
+    text-align: center;
+}
+
+.main-footer p {
+    color: #e5e7eb;
+    font-size: 14px;
+}
